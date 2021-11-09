@@ -1,0 +1,9 @@
+GET http://localhost:5000/exercise/618aaa77f5480d5e55ad6df0
+Content-Type: application/json
+
+{
+    "username":"Kalyan",
+    "description":"crud operations update ram",
+    "duration":9,
+    "date":"2021-11-09T16:39:22.433+00:00"
+}
